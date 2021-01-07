@@ -1,2 +1,2 @@
-# *Handwriting_Recognition*
+### Handwriting_Recognition
 Using mnist dataset
